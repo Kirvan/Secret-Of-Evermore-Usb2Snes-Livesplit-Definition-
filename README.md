@@ -1,5 +1,5 @@
 # Secret-Of-Evermore-Usb2Snes-Livesplit-Definition-
-JSON Description for Lufia II Ancient Cave
+JSON Description for Secret of Evermore
 
 # References
 [LiveSplit.USB2SNESSplitter](https://github.com/usb2snes/LiveSplit.USB2SNESSplitter)
